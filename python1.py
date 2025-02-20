@@ -1,0 +1,6 @@
+print("fjlkkjhgljjkk88900kuiopihjjkijhgg\n")
+print("shjkl")
+print("fjlkkjhgljjkk88900kuiopihjjkijhgg\n")
+print("shjkl\n")
+print("fjlkkjhgljjkk88900kuiopihjjkijhgg\n")
+print("shjkl")
